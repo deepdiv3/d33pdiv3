@@ -1,5 +1,5 @@
 <?php
 //Redirect Browser
-header("Location: https://rebrand.ly/grx7wcc/");
+header("Location: https://rebrand.ly/yhex3uh/");
 exit();
 ?>
